@@ -118,6 +118,25 @@ gap: 10px;
   gap: 12px;
 }
 
+.form-design-handle{
+  display: flex;
+  flex-direction: column;
+  gap: 39vh;
+  /* border: 1px solid red; */
+}
+.cancel-btn{
+  width: 6vw;
+  padding: 4px !important;
+  text-align: left;
+  font-size: 12px;
+}
+.saveNext{
+  width: 8vw;
+  padding: 6px !important;
+  /* border: 1px solid red; */
+  text-align: center;
+  font-size: 14px;
+}
 .pagination{
   border: 1px solid rgba(221, 202, 202, 0.812);
   border-radius:4px;
